@@ -1,8 +1,8 @@
 <h2 align="left">🧑‍💻 Caio Silva</h2>
 
 <p align="left">
-🎯 Desenvolvedor Back-End com foco em Java, Spring Boot, MySQL, MongoDB, Docker e AWS. Apaixonado por boas práticas, arquitetura limpa, APIs RESTful e aprendizado contínuo. Sempre buscando novos desafios em ambientes colaborativos.<br> <br>
-🎯 Back-End Developer focused on Java, Spring Boot, MySQL, MongoDB, Docker, and AWS. Passionate about clean code, scalable architecture, RESTful APIs, and continuous learning. Always looking for new challenges in collaborative environments.
+🎯 Desenvolvedor Full Stack com foco em Java, Spring Boot, MySQL, MongoDB, Docker, AWS, React e TypeScript. Apaixonado por boas práticas, arquitetura limpa, APIs RESTful e aprendizado contínuo. Sempre buscando novos desafios em ambientes colaborativos.<br><br>
+🎯 Full Stack Developer focused on Java, Spring Boot, MySQL, MongoDB, Docker, AWS, React, and TypeScript. Passionate about clean code, scalable architecture, RESTful APIs, and continuous learning. Always looking for new challenges in collaborative environments.
 </p>
 
 ###
@@ -29,8 +29,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS logo" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
 </div>
 
 ###
