@@ -1,7 +1,7 @@
 <h2 align="left">🧑‍💻 Caio Silva</h2>
 
 <p align="left">
-🎯 Desenvolvedor Full Stack com foco em Java, Spring Boot, MySQL, MongoDB, Docker, AWS, React e TypeScript. Apaixonado por boas práticas, arquitetura limpa, APIs RESTful e aprendizado contínuo. Sempre buscando novos desafios em ambientes colaborativos.<br><br>
+🎯 Desenvolvedor Full Stack com foco em Java, Spring Boot, C#, .NET, MySQL, MongoDB, Docker, AWS, React, Angular e TypeScript. Apaixonado por boas práticas, arquitetura limpa, APIs RESTful e aprendizado contínuo. Sempre buscando novos desafios em ambientes colaborativos.<br><br>
 🎯 Full Stack Developer focused on Java, Spring Boot, MySQL, MongoDB, Docker, AWS, React, and TypeScript. Passionate about clean code, scalable architecture, RESTful APIs, and continuous learning. Always looking for new challenges in collaborative environments.
 </p>
 
